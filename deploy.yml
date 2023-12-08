@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: DigitalMarketingSanjay/test17
+        image: project2/test17
         ports:
         - containerPort: 80
